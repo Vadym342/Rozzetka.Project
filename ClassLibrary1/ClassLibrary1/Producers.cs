@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    public class Class1
+   public class Producers
     {
+        public int ID { get; set; }
+        public string Name { get; set; }
+        
     }
 }
