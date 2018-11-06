@@ -8,6 +8,11 @@ namespace ClassLibrary1
 {
     public class Sales
     {
+        public Sales()
+        {
+            products = new List<Products>();
+        }
+
         public int ID { get; set; }
         public decimal Price { get; set; }
         public int Quantity { get; set; }
