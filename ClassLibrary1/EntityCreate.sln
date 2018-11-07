@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "..\..\..\..\Desktop\Rozzetka.Project-master\ClassLibrary1\ClassLibrary1\ClassLibrary.csproj", "{A56993E5-BED5-4F4F-B948-539CC9993934}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "..\..\..\..\Desktop\Rozzetka.Project-master\ClassLibrary1\ClassLibrary1\ClassLibrary1.csproj", "{A56993E5-BED5-4F4F-B948-539CC9993934}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceLibrary", "..\..\..\..\Desktop\Rozzetka.Project-master\ClassLibrary1\WcfServiceLibrary1\WcfServiceLibrary.csproj", "{35D1702D-5B6D-4956-B401-BAFE1C7CB371}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceLibrary1", "..\..\..\..\Desktop\Rozzetka.Project-master\ClassLibrary1\WcfServiceLibrary1\WcfServiceLibrary1.csproj", "{35D1702D-5B6D-4956-B401-BAFE1C7CB371}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "..\..\..\..\Desktop\Rozzetka.Project-master\ClassLibrary1\WpfApp1\WpfApp1.csproj", "{C87FBA39-4476-40DF-BBAC-CAF075C2627C}"
 EndProject
